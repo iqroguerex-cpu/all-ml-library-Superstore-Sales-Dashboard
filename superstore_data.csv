@@ -1,0 +1,16 @@
+Order_ID,Order_Date,Customer_Name,Region,Category,Sub_Category,Sales,Quantity,Profit
+1001,2023-01-05,John Smith,East,Furniture,Chair,250,2,40
+1002,2023-01-07,Alice Brown,West,Technology,Phone,900,3,200
+1003,2023-01-10,David Lee,South,Office Supplies,Paper,120,5,25
+1004,2023-02-02,John Smith,East,Technology,Laptop,1500,1,300
+1005,2023-02-15,Maria Garcia,West,Furniture,Table,700,2,120
+1006,2023-03-01,James Wilson,South,Office Supplies,Printer,400,1,80
+1007,2023-03-12,Alice Brown,West,Technology,Accessories,150,4,30
+1008,2023-04-05,David Lee,East,Furniture,Bookcase,600,1,90
+1009,2023-04-20,Maria Garcia,South,Technology,Phone,850,2,180
+1010,2023-05-03,James Wilson,West,Office Supplies,Binder,200,6,50
+1011,2023-05-18,John Smith,East,Furniture,Chair,300,3,60
+1012,2023-06-10,Alice Brown,South,Technology,Laptop,1700,1,350
+1013,2023-06-25,Maria Garcia,West,Office Supplies,Paper,100,4,20
+1014,2023-07-04,David Lee,East,Technology,Phone,950,2,210
+1015,2023-07-19,James Wilson,South,Furniture,Table,800,1,140
