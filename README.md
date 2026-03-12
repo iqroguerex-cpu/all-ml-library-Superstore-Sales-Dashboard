@@ -7,5 +7,4 @@ If you are reading this, Good. I am typing this to make more commits on the gith
 
 commit 1
 
-com
-
+c
